@@ -6,8 +6,8 @@ import networkx as nx
 #gis = GIS("https://www.arcgis.com", "seu_usuario", "sua_senha")
 
 # Substitua 'seu_usuario' e 'sua_senha' pelos dados da sua conta institucional
-username = 'bispo.santos'
-password = '310514Skt'
+username = 'xxxxxxxxxxxs'
+password = 'xxxxxxxxx'
 
 # URL do portal institucional, substitua pelo URL correto
 portal_url = 'https://unesp-edu.maps.arcgis.com'
